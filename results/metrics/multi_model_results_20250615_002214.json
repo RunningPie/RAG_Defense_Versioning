@@ -1,0 +1,57 @@
+{
+    "timestamp": "2025-06-15T00:22:14.519776",
+    "experiment_parameters": {
+        "retriever_model": "all-MiniLM-L6-v2",
+        "attack_num_targets": 10,
+        "defense_params": {
+            "unpopular_percentile_threshold": 0.25,
+            "similarity_threshold": 0.5,
+            "min_segment_length": 20
+        },
+        "generator_models_tested": [
+            "gemma2-9b-it",
+            "llama-3.3-70b-versatile"
+        ]
+    },
+    "results_by_model": {
+        "gemma2-9b-it": {
+            "results_summary": {
+                "baseline": {
+                    "MRR": 1.0,
+                    "HR@10": 1.0
+                },
+                "attacked": {
+                    "MRR": 0.7,
+                    "HR@10": 0.7
+                },
+                "defended_real": {
+                    "MRR": 0.8,
+                    "HR@10": 0.8
+                },
+                "defense_detection_rate": 0.5
+            }
+        },
+        "llama-3.3-70b-versatile": {
+            "results_summary": {
+                "baseline": {
+                    "MRR": 1.0,
+                    "HR@10": 1.0
+                },
+                "attacked": {
+                    "MRR": 0.7,
+                    "HR@10": 0.7
+                },
+                "defended_real": {
+                    "MRR": 0.8,
+                    "HR@10": 0.8
+                },
+                "defense_detection_rate": 0.5
+            }
+        }
+    },
+    "overall_interpretation": {
+        "vulnerability_assessment": "The attack was effective, reducing the retriever's Hit Rate@10 from 1.0000 to 0.7000, a drop of 30.00%.",
+        "defense_effectiveness": "The defense system detected 50.00% of attacks. This raised the Hit Rate@10 to 0.8000, recovering 33.33% of the performance lost to the attack.",
+        "overall_conclusion": "The defense is a valid proof-of-concept. The results show a direct correlation between the detection rate and performance recovery, providing a realistic measure of the defense's impact."
+    }
+}

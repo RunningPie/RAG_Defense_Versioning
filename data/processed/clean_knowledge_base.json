@@ -1,0 +1,1202 @@
+[
+    {
+        "movieId": 1,
+        "title": "Toy Story (1995)",
+        "genres": "Adventure|Animation|Children|Comedy|Fantasy",
+        "description": "Toy Story (1995) is a groundbreaking animated adventure that explores the complex relationships between toys and their human owner. When a new space ranger toy named Buzz Lightyear arrives, he threatens Woody's position as Andy's favorite. Their rivalry leads to a hilarious and heartwarming journey of self-discovery and friendship."
+    },
+    {
+        "movieId": 2,
+        "title": "Jumanji (1995)",
+        "genres": "Adventure|Children|Fantasy",
+        "description": "Jumanji (1995) is a thrilling fantasy adventure that plunges two children into a magical board game.  When they roll the dice, dangerous jungle creatures and perilous challenges spring to life, threatening their safety and sanity.  Jumanji delivers a captivating blend of suspense, humor, and unforgettable special effects."
+    },
+    {
+        "movieId": 3,
+        "title": "Grumpier Old Men (1995)",
+        "genres": "Comedy|Romance",
+        "description": "Grumpier Old Men (1995) is a charming romantic comedy that follows the ongoing rivalry between two aging bachelors, John and Max. Their feud reignites when a vibrant newcomer, Ariel, enters their lives.  This witty and heartwarming film explores themes of love, loss, and the enduring power of friendship."
+    },
+    {
+        "movieId": 4,
+        "title": "Waiting to Exhale (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Waiting to Exhale (1995) is a powerful drama that delves into the lives of four African American women navigating love, career, and friendship in a world of male infidelity and societal expectations.  This poignant and relatable film explores the complexities of female relationships and the search for self-fulfillment."
+    },
+    {
+        "movieId": 5,
+        "title": "Father of the Bride Part II (1995)",
+        "genres": "Comedy",
+        "description": "Father of the Bride Part II sees George Banks grappling with his impending empty nest as both his daughters prepare to leave for their respective futures.  As he navigates anxieties about his wife's career aspirations and his own fading relevance, he finds humor in the chaos of family life, culminating in a hilarious wedding that brings the Banks clan together."
+    },
+    {
+        "movieId": 6,
+        "title": "Heat (1995)",
+        "genres": "Action|Crime|Thriller",
+        "description": "Michael Mann's Heat is a gripping cat-and-mouse thriller that pits Al Pacino's meticulous detective against Robert De Niro's master thief. The film masterfully explores the complexities of their opposing worlds, weaving together intricate heist sequences with deeply personal character studies that delve into their motivations and the blurred lines of morality."
+    },
+    {
+        "movieId": 7,
+        "title": "Sabrina (1995)",
+        "genres": "Comedy|Romance",
+        "description": "Sabrina, a charming romantic comedy, follows the rekindled romance between Sabrina, a spirited chauffeur's daughter, and the two wealthy brothers who once dismissed her.  Reunited years later, Sabrina's newfound confidence and the brothers' growing awareness of her worth ignite a captivating love triangle set against a backdrop of class and societal expectations."
+    },
+    {
+        "movieId": 8,
+        "title": "Tom and Huck (1995)",
+        "genres": "Adventure|Children",
+        "description": "Tom and Huck, a spirited adventure, revisits the classic tale of Mark Twain's iconic characters.  Tom Sawyer and Huckleberry Finn embark on a thrilling journey down the Mississippi River, encountering danger, adventure, and the complexities of friendship along the way.  The film captures the spirit of childhood wonder and celebrates the enduring power of imagination."
+    },
+    {
+        "movieId": 9,
+        "title": "Sudden Death (1995)",
+        "genres": "Action",
+        "description": "In 'Sudden Death,' Jean-Claude Van Damme stars as a firefighter who must stop a terrorist plot during a hockey game. Trapped in the arena with a ticking clock and a ruthless antagonist, Van Damme's character must use his combat skills and quick thinking to save the lives of innocent spectators and his own family."
+    },
+    {
+        "movieId": 10,
+        "title": "GoldenEye (1995)",
+        "genres": "Action|Adventure|Thriller",
+        "description": "'GoldenEye' sees Pierce Brosnan's debut as James Bond as he faces off against a rogue MI6 agent seeking revenge. Combining thrilling action sequences with Cold War espionage, the film takes Bond to Russia and beyond, showcasing breathtaking stunts and a compelling story of betrayal and redemption."
+    },
+    {
+        "movieId": 11,
+        "title": "American President, The (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "'The American President' offers a charming and witty tale of romance and politics. Michael Douglas plays the widowed president who falls for a passionate environmental lobbyist, played by Annette Bening. Torn between his duty and his heart, the president must navigate the complexities of love and leadership in a captivating story about finding hope in unexpected places."
+    },
+    {
+        "movieId": 12,
+        "title": "Dracula: Dead and Loving It (1995)",
+        "genres": "Comedy|Horror",
+        "description": "Mel Brooks' 'Dracula: Dead and Loving It' delivers a hilarious and irreverent take on the classic vampire tale. Leslie Nielsen stars as Count Dracula, a bumbling and hapless bloodsucker who clashes with the modern world. Filled with slapstick comedy, clever wordplay, and memorable musical numbers, this film is a comedic gem for fans of the genre."
+    },
+    {
+        "movieId": 13,
+        "title": "Balto (1995)",
+        "genres": "Adventure|Animation|Children",
+        "description": "Set in the icy Alaskan wilderness, Balto tells the heartwarming tale of a half-wolf, half-dog who leads a team of sled dogs on a daring mission to deliver medicine to a stricken town. Facing perilous blizzards and treacherous terrain, Balto must overcome prejudice and harness his inner strength to become a hero and unite a community."
+    },
+    {
+        "movieId": 14,
+        "title": "Nixon (1995)",
+        "genres": "Drama",
+        "description": "Nixon, a gripping biographical drama, delves into the tumultuous presidency of Richard Nixon. The film portrays Nixon's political maneuvering, personal struggles, and the eventual Watergate scandal that led to his resignation. With an Oscar-winning performance by Anthony Hopkins, Nixon offers a complex and nuanced look at one of America's most controversial figures."
+    },
+    {
+        "movieId": 15,
+        "title": "Cutthroat Island (1995)",
+        "genres": "Action|Adventure|Romance",
+        "description": "Cutthroat Island, a swashbuckling adventure, follows the daring exploits of Morgan Adams, a fierce female pirate captain. Seeking a legendary treasure, Morgan and her crew embark on a perilous journey across the high seas, facing treacherous storms, ruthless rivals, and the captivating allure of forbidden romance."
+    },
+    {
+        "movieId": 16,
+        "title": "Casino (1995)",
+        "genres": "Crime|Drama",
+        "description": "Casino, a gritty crime drama, plunges into the seedy underbelly of the Las Vegas gambling scene. The film follows the rise and fall of Sam 'Ace' Rothstein, a casino manager entangled in a web of corruption, violence, and betrayal. With stellar performances and a haunting score, Casino is a captivating and morally ambiguous look at the dark side of the American dream."
+    },
+    {
+        "movieId": 17,
+        "title": "Sense and Sensibility (1995)",
+        "genres": "Drama|Romance",
+        "description": "Emma Thompson's exquisite adaptation of Jane Austen's classic novel explores the complex lives of two sisters, Elinor and Marianne Dashwood.  Navigating societal pressures and romantic entanglements, they learn valuable lessons about love, loss, and the importance of emotional intelligence.  With its elegant period setting, witty dialogue, and nuanced performances, 'Sense and Sensibility' is a timeless masterpiece of romance and social commentary."
+    },
+    {
+        "movieId": 18,
+        "title": "Four Rooms (1995)",
+        "genres": "Comedy",
+        "description": "Robert Rodriguez's anthology film 'Four Rooms' offers a darkly comedic journey through a seedy motel on New Year's Eve.  Each vignette, directed by Rodriguez and his collaborators, showcases a distinct set of eccentric characters encountering bizarre situations.  From a desperate gambler to a menacing bellhop, the stories weave a tapestry of absurdist humor, sharp wit, and unexpected twists, leaving audiences entertained and bewildered in equal measure."
+    },
+    {
+        "movieId": 19,
+        "title": "Ace Ventura: When Nature Calls (1995)",
+        "genres": "Comedy",
+        "description": "Jim Carrey's manic energy returns in 'Ace Ventura: When Nature Calls,' as the eccentric detective embarks on a new mission to rescue a kidnapped rhino.  With slapstick humor and outrageous antics, Carrey's performance is both hilarious and endearing.  The film follows Ace's chaotic journey through the African wilderness, encountering eccentric characters and navigating a world of animal conspiracies."
+    },
+    {
+        "movieId": 20,
+        "title": "Money Train (1995)",
+        "genres": "Action|Comedy|Crime|Drama|Thriller",
+        "description": "'Money Train' throws a cynical twist on the action thriller genre.  Starring Wesley Snipes and Woody Harrelson, the film follows two New York City transit policemen who hatch a plan to rob the subway system.  However, their scheme becomes increasingly dangerous as they face off against corrupt officials, rival criminals, and their own internal struggles.  The film is a gritty and suspenseful ride, exploring themes of greed, betrayal, and the moral ambiguity of justice."
+    },
+    {
+        "movieId": 21,
+        "title": "Get Shorty (1995)",
+        "genres": "Comedy|Crime|Thriller",
+        "description": "Get Shorty blends humor and crime with a charming performance from John Travolta. He plays a Miami mobster who tries his hand at Hollywood film production, leading to hilarious clashes between organized crime and the tinsel town. The witty script and engaging characters make this a smart and entertaining crime caper."
+    },
+    {
+        "movieId": 22,
+        "title": "Copycat (1995)",
+        "genres": "Crime|Drama|Horror|Mystery|Thriller",
+        "description": "Copycat is a suspenseful thriller that keeps you on the edge of your seat. Sigourney Weaver stars as a forensic psychologist who helps track down a serial killer who's mimicking crimes from the past. The film masterfully blends psychological tension with gruesome crime sequences, creating a haunting and unforgettable experience."
+    },
+    {
+        "movieId": 23,
+        "title": "Assassins (1995)",
+        "genres": "Action|Crime|Thriller",
+        "description": "Assassins delivers a high-octane action thriller experience.  Sylvester Stallone and Antonio Banderas lead a stellar cast as rival assassins caught in a deadly web.  Filled with intense shootouts, elaborate stunts, and a relentless pace, Assassins is a stylish and thrilling ride for action movie fans."
+    },
+    {
+        "movieId": 24,
+        "title": "Powder (1995)",
+        "genres": "Drama|Sci-Fi",
+        "description": "Powder is a touching and thought-provoking sci-fi drama. Sean Patrick Flanery plays a young albino boy with extraordinary abilities who is ostracized by society. The film explores themes of acceptance, isolation, and the power of human connection with a unique and captivating story."
+    },
+    {
+        "movieId": 25,
+        "title": "Leaving Las Vegas (1995)",
+        "genres": "Drama|Romance",
+        "description": "Leaving Las Vegas offers a poignant and unflinching portrayal of self-destruction.  Nic Cage delivers a masterful performance as a suicidal alcoholic who seeks oblivion in the neon-lit city. His downward spiral intersects with Elisabeth Shue's character, a prostitute who offers a fleeting connection amidst the wreckage. The film is a raw and heartbreaking exploration of love, loss, and the fragility of life."
+    },
+    {
+        "movieId": 26,
+        "title": "Othello (1995)",
+        "genres": "Drama",
+        "description": "Kenneth Branagh's Othello is a visually striking and intensely dramatic adaptation of Shakespeare's timeless tragedy.  The film captures the essence of jealousy, manipulation, and betrayal as Othello, a Moorish general, is driven to madness by Iago's venomous lies. Branagh's Othello is both charismatic and vulnerable, while Laurence Fishburne delivers a chilling performance as the manipulative Iago."
+    },
+    {
+        "movieId": 27,
+        "title": "Now and Then (1995)",
+        "genres": "Children|Drama",
+        "description": "Now and Then takes us on a nostalgic journey back to the carefree days of childhood.  Four lifelong friends reunite as adults, reflecting on their shared summer experiences in 1970.  The film beautifully blends heartwarming moments with the complexities of growing up, exploring themes of friendship, love, and the bittersweet passage of time."
+    },
+    {
+        "movieId": 28,
+        "title": "Persuasion (1995)",
+        "genres": "Drama|Romance",
+        "description": "Persuasion is a captivating adaptation of Jane Austen's classic novel, showcasing a poignant love story that spans years.  After being rejected by her former love, Captain Wentworth, Anne Elliot is reunited with him and must navigate the complexities of their renewed connection. The film delicately explores themes of second chances, societal expectations, and the enduring power of love."
+    },
+    {
+        "movieId": 29,
+        "title": "City of Lost Children, The (Cité des enfants perdus, La) (1995)",
+        "genres": "Adventure|Drama|Fantasy|Mystery|Sci-Fi",
+        "description": "In the whimsical yet unsettling \"City of Lost Children\", a tyrannical inventor kidnaps children to steal their dreams.  A band of ragtag outcasts, led by a tattooed fugitive and a resourceful young boy, must infiltrate his fortress and rescue the abducted children before it's too late. This visually arresting film blends adventure, fantasy, and a touch of dark humor, creating a unique and unforgettable cinematic experience."
+    },
+    {
+        "movieId": 30,
+        "title": "Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",
+        "genres": "Crime|Drama",
+        "description": "Set against the backdrop of 1930s Shanghai, \"Shanghai Triad\" delves into the world of organized crime.  The film follows the journey of a young man who gets entangled in the dangerous underworld, navigating treacherous alliances and brutal betrayals. Through its gritty realism and compelling characters, \"Shanghai Triad\" offers a poignant exploration of loyalty, morality, and the allure of power in a corrupt society."
+    },
+    {
+        "movieId": 31,
+        "title": "Dangerous Minds (1995)",
+        "genres": "Drama",
+        "description": "In \"Dangerous Minds\", a former Marine, LouAnne Johnson, takes a job as a high school teacher in a tough inner-city neighborhood.  Faced with challenging and rebellious students, she uses unconventional methods inspired by her military experience to connect with them and inspire their potential. This inspiring drama celebrates the transformative power of education and the importance of nurturing hope in even the most difficult circumstances."
+    },
+    {
+        "movieId": 32,
+        "title": "Twelve Monkeys (a.k.a. 12 Monkeys) (1995)",
+        "genres": "Mystery|Sci-Fi|Thriller",
+        "description": "From director Terry Gilliam comes the mind-bending \"Twelve Monkeys\", a thrilling time-travel narrative. A prisoner from a dystopian future is sent back in time to prevent a devastating virus from wiping out humanity. His mission leads him on a complex and often surreal journey, blurring the lines between reality and delusion as he unravels the mysteries of the past and the fate of the future."
+    },
+    {
+        "movieId": 34,
+        "title": "Babe (1995)",
+        "genres": "Children|Drama",
+        "description": "Babe, a charming piglet, dreams of becoming a sheepdog despite his unusual species.  Taken in by a kind farmer, Babe's determination and unwavering spirit lead him to prove that even the smallest creature can achieve greatness.  This heartwarming tale, filled with adorable animals and heartwarming lessons, is a delightful treat for audiences of all ages."
+    },
+    {
+        "movieId": 36,
+        "title": "Dead Man Walking (1995)",
+        "genres": "Crime|Drama",
+        "description": "Dead Man Walking delves into the complex moral landscape surrounding capital punishment. Sister Helen Prejean, a nun, takes on the daunting task of spiritual guidance for a convicted murderer, Patrick Sonnier.  As they navigate their shared journey, the film explores themes of forgiveness, redemption, and the profound impact of death row on both the condemned and those who seek justice."
+    },
+    {
+        "movieId": 38,
+        "title": "It Takes Two (1995)",
+        "genres": "Children|Comedy",
+        "description": "It Takes Two, a hilarious family adventure, follows the chaotic misadventures of two divorced parents who must put aside their differences to save their daughter.  Forced to work together, they embark on a wacky and unpredictable journey filled with mistaken identities, slapstick humor, and ultimately, a renewed sense of family. This lighthearted comedy offers a heartwarming reminder that love and laughter can bridge even the widest divides."
+    },
+    {
+        "movieId": 39,
+        "title": "Clueless (1995)",
+        "genres": "Comedy|Romance",
+        "description": "Clueless, a stylish and witty teen comedy, offers a modern take on Jane Austen's Emma. Cher Horowitz, a popular and well-meaning high school student, decides to play matchmaker for her clueless classmates.  With her loyal best friend Dionne by her side, Cher navigates the treacherous waters of high school social dynamics, romantic mishaps, and self-discovery.  This iconic film captures the essence of 90s teen culture with its sharp dialogue, unforgettable characters, and a timeless message about friendship and self-acceptance."
+    },
+    {
+        "movieId": 40,
+        "title": "Cry, the Beloved Country (1995)",
+        "genres": "Drama",
+        "description": "Cry, the Beloved Country (1995) is a poignant drama set in apartheid-era South Africa. The film follows the journey of a black pastor, Reverend Stephen Kumalo, as he travels from his rural village to Johannesburg to search for his son. Facing the harsh realities of racial segregation and injustice, Kumalo's search becomes a deeply personal and societal exploration of hope, forgiveness, and the enduring human spirit."
+    },
+    {
+        "movieId": 41,
+        "title": "Richard III (1995)",
+        "genres": "Drama|War",
+        "description": "Richard III (1995) offers a Shakespearean spectacle with a chilling performance from Ian McKellen as the titular villain. Set against the backdrop of the War of the Roses, the film depicts Richard's ruthless ambition and Machiavellian scheming as he manipulates and murders his way to the throne. A gripping and visually stunning adaptation, it explores themes of power, betrayal, and the corrosive nature of evil."
+    },
+    {
+        "movieId": 42,
+        "title": "Dead Presidents (1995)",
+        "genres": "Action|Crime|Drama",
+        "description": "Dead Presidents (1995) is a gritty crime drama that follows a Vietnam War veteran, Anthony Curtis, who attempts to reclaim his life after returning home to a society that has forgotten him.  Curtis's journey leads him down a dangerous path of bank robbery and disillusionment, forcing him to confront the trauma of war and the systemic inequalities that plague his community."
+    },
+    {
+        "movieId": 43,
+        "title": "Restoration (1995)",
+        "genres": "Drama",
+        "description": "Restoration (1995) delves into the complexities of love, ambition, and survival in 17th-century England. Set against the backdrop of the tumultuous Restoration period, the film follows the story of Robert Merivel, a physician who becomes entangled in a forbidden affair with the Queen's mistress. Faced with betrayal, scandal, and religious upheaval, Merivel's choices have profound consequences for his future and the fragile balance of power."
+    },
+    {
+        "movieId": 44,
+        "title": "Mortal Kombat (1995)",
+        "genres": "Action|Adventure|Fantasy",
+        "description": "Based on the popular video game, 'Mortal Kombat' throws viewers into a brutal tournament where Earthrealm's fate hangs in the balance.  Special forces operative Sonya Blade and martial arts champion Johnny Cage team up with mystical warrior Liu Kang to face off against the evil Shang Tsung and his Outworld warriors in a series of gruesome and visually stunning combat sequences."
+    },
+    {
+        "movieId": 45,
+        "title": "To Die For (1995)",
+        "genres": "Comedy|Drama|Thriller",
+        "description": "Nic Cage delivers a chilling performance as a cunning and ruthless small-town TV reporter in 'To Die For.' Driven by ambition and a thirst for fame, she manipulates and murders those around her to climb the social ladder, exposing the dark side of the media and the lengths people will go to for recognition."
+    },
+    {
+        "movieId": 46,
+        "title": "How to Make an American Quilt (1995)",
+        "genres": "Drama|Romance",
+        "description": " 'How to Make an American Quilt' weaves a poignant tapestry of love, loss, and the enduring bonds of family and friendship. The film follows a young woman's journey of self-discovery as she learns about life and relationships from the wise women in her grandmother's quilting circle, each sharing their own stories through the intricate patterns of their quilts."
+    },
+    {
+        "movieId": 47,
+        "title": "Seven (a.k.a. Se7en) (1995)",
+        "genres": "Mystery|Thriller",
+        "description": " 'Seven' plunges viewers into a nightmarish world of crime and depravity. Two detectives, a seasoned veteran and a rookie, race against time to catch a serial killer who uses the seven deadly sins as inspiration for his gruesome murders. The film's bleak and oppressive atmosphere, coupled with its shocking violence, creates a truly unforgettable cinematic experience."
+    },
+    {
+        "movieId": 48,
+        "title": "Pocahontas (1995)",
+        "genres": "Animation|Children|Drama|Musical|Romance",
+        "description": "Disney's Pocahontas tells the captivating story of a Native American woman who falls in love with an English settler during a time of cultural clash. Set against the backdrop of historical events, the film explores themes of love, betrayal, and the struggle to bridge the gap between different worlds. Pocahontas's journey of self-discovery and her fight to protect her people and their land make for a timeless and emotionally resonant tale."
+    },
+    {
+        "movieId": 49,
+        "title": "When Night Is Falling (1995)",
+        "genres": "Drama|Romance",
+        "description": "When Night Is Falling is a poignant drama about forbidden love and the complexities of human relationships. Set in a small town, the film follows a woman who is drawn to a mysterious and alluring stranger. As their connection deepens, they must confront societal expectations and their own internal struggles. The film explores themes of desire, isolation, and the search for connection."
+    },
+    {
+        "movieId": 50,
+        "title": "Usual Suspects, The (1995)",
+        "genres": "Crime|Mystery|Thriller",
+        "description": "The Usual Suspects is a mind-bending crime thriller that keeps viewers guessing until the very end. With a masterful plot and stellar performances, the film follows a group of criminals who are brought together by a cunning mastermind. As the investigation unfolds, layers of deception and betrayal are revealed, leading to a shocking twist that will leave audiences reeling. The Usual Suspects is a classic example of suspenseful storytelling at its finest."
+    },
+    {
+        "movieId": 52,
+        "title": "Mighty Aphrodite (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Mighty Aphrodite is a witty and insightful comedy that explores the complexities of love, family, and the search for happiness. When a sportswriter discovers the mother of his son, he embarks on a hilarious and heartwarming journey to reconnect with her. The film features strong performances and sharp dialogue, making for a thoroughly entertaining and thought-provoking experience. Mighty Aphrodite is a reminder that even the most unconventional families can find love and strength in each other."
+    },
+    {
+        "movieId": 53,
+        "title": "Lamerica (1994)",
+        "genres": "Adventure|Drama",
+        "description": "Lamerica (1994) is a captivating adventure drama that follows the journey of two young Americans navigating the complexities of post-communist Albania. Through their encounters with locals and the country's turbulent political landscape, they unravel a tale of personal growth, cultural clashes, and the enduring power of human connection."
+    },
+    {
+        "movieId": 54,
+        "title": "Big Green, The (1995)",
+        "genres": "Children|Comedy",
+        "description": "The Big Green (1995) is a heartwarming children's comedy about a passionate yet inexperienced soccer coach who inspires a ragtag group of young players in rural Texas. With infectious enthusiasm and unconventional tactics, he transforms their lives both on and off the field, teaching them valuable lessons about teamwork, resilience, and the pursuit of their dreams."
+    },
+    {
+        "movieId": 55,
+        "title": "Georgia (1995)",
+        "genres": "Drama",
+        "description": "Georgia (1995) is a poignant drama that delves into the complex life of a talented, yet troubled, blues singer. Navigating a world of addiction and heartbreak, she struggles to reconcile her artistic ambitions with her demons, ultimately seeking solace in the bonds of family and the healing power of music."
+    },
+    {
+        "movieId": 57,
+        "title": "Home for the Holidays (1995)",
+        "genres": "Drama",
+        "description": "Home for the Holidays (1995) is a relatable and bittersweet drama that explores the dynamics of a dysfunctional family gathering during the Christmas season. As secrets are revealed and tensions rise, the characters confront their personal struggles and the universal challenges of love, loss, and forgiveness."
+    },
+    {
+        "movieId": 58,
+        "title": "Postman, The (Postino, Il) (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Set in a quaint Italian village, 'The Postman' is a charming tale of love, loss, and finding beauty in unexpected places.  This heartwarming comedy-drama follows a young postman as he navigates the complexities of life, love, and friendship, all while delivering joy and connection to those around him."
+    },
+    {
+        "movieId": 60,
+        "title": "Indian in the Cupboard, The (1995)",
+        "genres": "Adventure|Children|Fantasy",
+        "description": " 'The Indian in the Cupboard' is a magical adventure that blends fantasy and childhood wonder.  When a young boy discovers a miniature Native American figurine, he unleashes a tiny warrior onto a world of imagination and playtime.  Their friendship blossoms as they embark on exciting escapades, facing challenges and learning valuable lessons along the way."
+    },
+    {
+        "movieId": 61,
+        "title": "Eye for an Eye (1996)",
+        "genres": "Drama|Thriller",
+        "description": " 'Eye for an Eye' is a gripping thriller that explores themes of revenge and justice.  Driven by a desire for retribution, a woman seeks to exact her own brand of justice on those who wronged her.  As the lines between right and wrong blur, the film plunges into a dark world of moral ambiguity and the consequences of unchecked vengeance."
+    },
+    {
+        "movieId": 62,
+        "title": "Mr. Holland's Opus (1995)",
+        "genres": "Drama",
+        "description": " 'Mr. Holland's Opus' is a poignant and inspiring drama that celebrates the power of music and its impact on lives.  It follows the journey of a dedicated music teacher who finds fulfillment in nurturing young talents and passing on his passion for music. Through his students, he discovers the true meaning of legacy and the enduring power of art."
+    },
+    {
+        "movieId": 63,
+        "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+        "genres": "Comedy|Crime",
+        "description": "GENERATION_ERROR"
+    },
+    {
+        "movieId": 64,
+        "title": "Two if by Sea (1996)",
+        "genres": "Comedy|Romance",
+        "description": "GENERATION_ERROR"
+    },
+    {
+        "movieId": 65,
+        "title": "Bio-Dome (1996)",
+        "genres": "Comedy",
+        "description": "GENERATION_ERROR"
+    },
+    {
+        "movieId": 66,
+        "title": "Lawnmower Man 2: Beyond Cyberspace (1996)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "description": "GENERATION_ERROR"
+    },
+    {
+        "movieId": 68,
+        "title": "French Twist (Gazon maudit) (1995)",
+        "genres": "Comedy|Romance",
+        "description": "In  'French Twist,' a Parisian con artist's meticulously crafted plan to seduce a wealthy heiress unravels when he falls for her spirited and independent best friend. This romantic comedy, set against the backdrop of the vibrant French capital, explores themes of love, betrayal, and the complexities of human connection."
+    },
+    {
+        "movieId": 69,
+        "title": "Friday (1995)",
+        "genres": "Comedy",
+        "description": "'Friday' is a hilarious snapshot of a day in the life of two friends in South Central Los Angeles. Craig and Day-Day's quest for a good time is constantly interrupted by a series of comical misadventures, including an encounter with a menacing neighbor and a desperate search for a missing drug dealer. This iconic stoner comedy is a celebration of friendship, resilience, and the absurdity of everyday life."
+    },
+    {
+        "movieId": 70,
+        "title": "From Dusk Till Dawn (1996)",
+        "genres": "Action|Comedy|Horror|Thriller",
+        "description": "From Dusk Till Dawn plunges viewers into a wild ride of action, horror, and unexpected twists.  Two bank robbers seeking refuge in a remote Mexican bar find themselves trapped in a bloodthirsty showdown with vampires.  This genre-bending film seamlessly blends dark humor, intense suspense, and graphic violence, keeping audiences on the edge of their seats."
+    },
+    {
+        "movieId": 71,
+        "title": "Fair Game (1995)",
+        "genres": "Action",
+        "description": "Fair Game pits a seasoned espionage agent against a ruthless adversary in a high-stakes game of cat and mouse.  When a deadly plot threatens national security, this action-packed thriller follows the agent's relentless pursuit of the truth, navigating a treacherous web of deception and betrayal."
+    },
+    {
+        "movieId": 72,
+        "title": "Kicking and Screaming (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Kicking and Screaming (1995) is a bittersweet comedy-drama that follows a group of college graduates as they navigate the uncertain transition into adulthood.  Haunted by the end of their carefree college years, they struggle with finding their place in the world, grappling with love, loss, and the anxieties of building a future.  Through their shared experiences, the film poignantly captures the universal themes of friendship, self-discovery, and the bittersweet pangs of growing up."
+    },
+    {
+        "movieId": 73,
+        "title": "Misérables, Les (1995)",
+        "genres": "Drama|War",
+        "description": "Les Misérables (1995) is a powerful and epic adaptation of Victor Hugo's classic novel. Set against the backdrop of 19th-century France, the film follows the lives of Jean Valjean, a former prisoner seeking redemption, and Javert, the relentless police inspector pursuing him.  With stunning visuals, soaring music, and unforgettable performances, the film explores themes of justice, mercy, love, and the human condition."
+    },
+    {
+        "movieId": 74,
+        "title": "Bed of Roses (1996)",
+        "genres": "Drama|Romance",
+        "description": "Bed of Roses (1996) is a poignant drama that delves into the complexities of a passionate but troubled relationship.  The film stars Christian Slater and Mary-Louise Parker as a couple whose whirlwind romance is tested by their individual demons and the weight of their pasts.  Through their tumultuous journey,  Bed of Roses explores the intoxicating highs and devastating lows of love, highlighting the fragility of human connection."
+    },
+    {
+        "movieId": 75,
+        "title": "Big Bully (1996)",
+        "genres": "Comedy|Drama",
+        "description": "Big Bully (1996) is a heartwarming comedy-drama that centers around a young boy's struggle to overcome bullying.  The film follows the story of a shy and gentle boy who finds himself targeted by a group of bullies.  With the help of his friends and family, he learns to stand up for himself and find his voice.  Big Bully delivers a powerful message about resilience, friendship, and the importance of finding your inner strength."
+    },
+    {
+        "movieId": 76,
+        "title": "Screamers (1995)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "description": "In the desolate future, the sci-fi thriller \"Screamers\" pits humanity against its own creation: deadly, self-replicating killing machines.  A team of explorers sent to investigate a remote mining colony must confront these relentless, intelligent robots while unraveling a deadly conspiracy that threatens to engulf the entire planet."
+    },
+    {
+        "movieId": 77,
+        "title": "Nico Icon (1995)",
+        "genres": "Documentary",
+        "description": "The documentary \"Nico Icon\" offers a captivating portrait of Nico, the enigmatic German singer and muse to the Velvet Underground. Through archival footage and interviews, the film explores her turbulent life, her artistic evolution, and her enduring influence on music and culture."
+    },
+    {
+        "movieId": 78,
+        "title": "Crossing Guard, The (1995)",
+        "genres": "Action|Crime|Drama|Thriller",
+        "description": "In \"The Crossing Guard\", a gripping drama unfolds as a grieving father, played by Jack Nicholson, seeks revenge against the hit-and-run driver who killed his daughter. As he delves into his quest for justice, he confronts the complexities of forgiveness, the scars of loss, and the blurred lines between right and wrong."
+    },
+    {
+        "movieId": 79,
+        "title": "Juror, The (1996)",
+        "genres": "Drama|Thriller",
+        "description": "The suspenseful drama \"The Juror\" centers on a woman chosen for jury duty who becomes the target of a dangerous stalker. As the trial progresses, she realizes that her life is in peril and must outsmart her pursuer while navigating the complexities of the legal system."
+    },
+    {
+        "movieId": 80,
+        "title": "White Balloon, The (Badkonake sefid) (1995)",
+        "genres": "Children|Drama",
+        "description": "The White Balloon, a beautiful and poignant Iranian film, follows the story of a young girl named Sohrab who desperately wants to buy a goldfish for the upcoming Nowruz celebration. As she struggles to earn enough money, the film paints a vivid portrait of childhood innocence and the harsh realities of poverty in a bustling Tehran marketplace."
+    },
+    {
+        "movieId": 81,
+        "title": "Things to Do in Denver When You're Dead (1995)",
+        "genres": "Crime|Drama|Romance",
+        "description": "Things to Do in Denver When You're Dead is a darkly comedic and action-packed crime thriller.  Set in the gritty underbelly of Denver, the film follows a small-time crook and his eccentric gang as they navigate a web of violence, betrayal, and unexpected twists. With a stellar ensemble cast and a fast-paced plot, the film delivers a wild ride filled with memorable characters and explosive encounters."
+    },
+    {
+        "movieId": 82,
+        "title": "Antonia's Line (Antonia) (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Antonia's Line, a heartwarming Dutch drama, tells the story of a strong-willed woman who finds love and family in unexpected places. Set in a rural Dutch village, the film follows Antonia as she embraces her unconventional lifestyle and raises a family of diverse children. Filled with humor, warmth, and poignant moments, the film celebrates the power of female resilience and the enduring bonds of community."
+    },
+    {
+        "movieId": 83,
+        "title": "Once Upon a Time... When We Were Colored (1995)",
+        "genres": "Drama|Romance",
+        "description": "Once Upon a Time... When We Were Colored is a poignant and thought-provoking drama that explores the complexities of race and identity in the American South. Set in the Jim Crow era, the film follows a group of African Americans as they navigate a world of segregation and prejudice. Through their struggles and triumphs, the film sheds light on the enduring legacy of racism and the enduring power of hope."
+    },
+    {
+        "movieId": 85,
+        "title": "Angels and Insects (1995)",
+        "genres": "Drama|Romance",
+        "description": "Angels and Insects (1995) is a captivating drama that explores the intricate dynamics between class, desire, and societal expectations in Victorian England. Set against the backdrop of a wealthy family's estate, the film delves into the passionate entanglement between a young entomologist and a captivating, yet troubled woman.  Their forbidden romance ignites a whirlwind of emotions, challenging conventional norms and ultimately leading to a tragic confrontation with the harsh realities of their world."
+    },
+    {
+        "movieId": 86,
+        "title": "White Squall (1996)",
+        "genres": "Action|Adventure|Drama",
+        "description": "White Squall (1996) is a gripping action-adventure drama based on a true story of survival at sea. A group of young cadets aboard a prestigious sailing vessel face a terrifying ordeal when their ship is caught in a violent hurricane.  As the storm rages and the ship succumbs to the relentless onslaught of nature's fury, the cadets must confront their fears and fight for their lives, relying on their courage, resilience, and the bonds of camaraderie to navigate the treacherous waters."
+    },
+    {
+        "movieId": 87,
+        "title": "Dunston Checks In (1996)",
+        "genres": "Children|Comedy",
+        "description": "Dunston Checks In (1996) is a lighthearted and entertaining children's comedy about a mischievous chimpanzee who wreaks havoc on a luxury hotel. Dunston, seeking adventure and freedom, escapes from his zoo enclosure and finds himself amidst the upscale world of the hotel.  With his playful antics and unpredictable behavior, Dunston disrupts the carefully orchestrated routines of the hotel staff and guests, leading to a series of hilarious mishaps and unforgettable encounters."
+    },
+    {
+        "movieId": 88,
+        "title": "Black Sheep (1996)",
+        "genres": "Comedy",
+        "description": "Black Sheep (1996) is a slapstick comedy that follows the misadventures of a family of eccentric sheep farmers.  The film centers on the youngest son, who is constantly being compared to his successful older brothers and struggles to find his place in the family.  Through a series of outrageous and hilarious situations, Black Sheep delivers a heartwarming and side-splitting story about the importance of family, acceptance, and embracing your individuality."
+    },
+    {
+        "movieId": 89,
+        "title": "Nick of Time (1995)",
+        "genres": "Action|Thriller",
+        "description": "Nick of Time (1995) is a high-stakes action thriller where a single father must defuse a bomb to save his daughter's life. Trapped in a deadly game of manipulation and intrigue, he races against the clock to uncover a sinister conspiracy while battling his own demons.  The film's tense atmosphere and unpredictable plot keep viewers on the edge of their seats."
+    },
+    {
+        "movieId": 92,
+        "title": "Mary Reilly (1996)",
+        "genres": "Drama|Horror|Thriller",
+        "description": "Mary Reilly (1996) offers a chilling psychological thriller exploring the dark side of Dr. Jekyll and Mr. Hyde.  Through the eyes of Mary, his faithful maid, we witness the descent into madness and the horrifying consequences of unchecked ambition. This atmospheric adaptation blends gothic horror with a haunting exploration of duality and the fragility of the human psyche."
+    },
+    {
+        "movieId": 93,
+        "title": "Vampire in Brooklyn (1995)",
+        "genres": "Comedy|Horror|Romance",
+        "description": "Vampire in Brooklyn (1995) blends horror, comedy, and romance in a charmingly campy tale.  A charismatic vampire, seeking to establish a new dynasty, arrives in Brooklyn and encounters a spirited woman who throws his plans for world domination into disarray.  With witty dialogue and over-the-top performances, the film delivers a fun and lighthearted take on the classic vampire genre."
+    },
+    {
+        "movieId": 94,
+        "title": "Beautiful Girls (1996)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Beautiful Girls (1996) is a heartwarming comedy-drama that explores the complexities of love, friendship, and nostalgia. Set in a small town, it follows a group of friends as they navigate the ups and downs of relationships and life's challenges.  With a stellar cast and a nostalgic soundtrack, the film captures the bittersweet moments of growing up and finding your place in the world."
+    },
+    {
+        "movieId": 95,
+        "title": "Broken Arrow (1996)",
+        "genres": "Action|Adventure|Thriller",
+        "description": "In \"Broken Arrow\", John Travolta stars as a rogue Air Force pilot who steals a nuclear warhead, setting off a race against time to prevent catastrophe.  Joining forces with a fellow pilot and a determined intelligence officer, they must navigate treacherous terrain and outwit their adversary before the weapon falls into the wrong hands.  This action-packed thriller features heart-stopping stunts and explosive sequences, keeping viewers on the edge of their seats."
+    },
+    {
+        "movieId": 96,
+        "title": "In the Bleak Midwinter (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Set against the backdrop of a bleak and unforgiving winter, \"In the Bleak Midwinter\" explores the comedic and dramatic struggles of two individuals caught in a web of unexpected circumstances.  With a unique blend of humor and poignant observations about human nature, the film delves into themes of isolation, connection, and the search for meaning in an often chaotic world."
+    },
+    {
+        "movieId": 97,
+        "title": "Hate (Haine, La) (1995)",
+        "genres": "Crime|Drama",
+        "description": "\"Hate (Haine, La)\" is a powerful and unflinching look at the simmering tensions and explosive violence that can erupt within a marginalized community. The film follows three young men in 1990s France, whose lives are consumed by anger, resentment, and a desperate yearning for belonging.  A searing indictment of societal inequality, \"Hate\" confronts viewers with the raw realities of urban alienation and the consequences of unchecked rage."
+    },
+    {
+        "movieId": 99,
+        "title": "Heidi Fleiss: Hollywood Madam (1995)",
+        "genres": "Documentary",
+        "description": "\"Heidi Fleiss: Hollywood Madam\" offers a provocative and unflinching exposé into the world of high-end prostitution in Hollywood.  Through interviews and archival footage, the documentary chronicles the rise and fall of Heidi Fleiss, a former telephone sex operator who built a lucrative empire catering to the city's elite.  Exploring themes of power, sex, and the dark underbelly of fame, the film provides a glimpse into a hidden world of wealth and vice."
+    },
+    {
+        "movieId": 100,
+        "title": "City Hall (1996)",
+        "genres": "Drama|Thriller",
+        "description": "City Hall (1996) is a gripping drama-thriller that delves into the murky world of political corruption.  A determined journalist uncovers a web of deceit and betrayal within the city's highest offices, putting both her career and her life at risk. As the lines between right and wrong blur, she must fight to expose the truth and hold the powerful accountable, even if it means facing insurmountable odds."
+    },
+    {
+        "movieId": 101,
+        "title": "Bottle Rocket (1996)",
+        "genres": "Adventure|Comedy|Crime|Romance",
+        "description": "Bottle Rocket (1996) is a quirky and charming comedy-adventure that follows the misadventures of three lovable outcasts.  With dreams of escaping their mundane lives and embarking on a grand heist, their plans quickly unravel in a series of hilarious and chaotic mishaps.  This indie film, brimming with wit and offbeat humor, celebrates the power of friendship and the absurdity of life's detours."
+    },
+    {
+        "movieId": 102,
+        "title": "Mr. Wrong (1996)",
+        "genres": "Comedy",
+        "description": "Mr. Wrong (1996) is a lighthearted romantic comedy that explores the pitfalls of dating.  A successful woman, tired of her string of unlucky dates, finds herself entangled with a charming but flawed man who seems to be Mr. Wrong in every way. Despite their obvious differences, they develop a surprising connection, leading to a series of hilarious encounters and a journey of self-discovery."
+    },
+    {
+        "movieId": 103,
+        "title": "Unforgettable (1996)",
+        "genres": "Mystery|Sci-Fi|Thriller",
+        "description": "Unforgettable (1996) is a suspenseful sci-fi thriller that keeps you on the edge of your seat. A young couple's dream vacation takes a terrifying turn when they encounter a mysterious and sinister force that begins to haunt their every move. As the line between reality and nightmare blurs, they must unravel the truth behind a chilling conspiracy before it's too late."
+    },
+    {
+        "movieId": 104,
+        "title": "Happy Gilmore (1996)",
+        "genres": "Comedy",
+        "description": "Happy Gilmore, a hot-headed hockey player, discovers an unexpected talent for golf and sets out to save his grandmother's house. Filled with slapstick humor and outrageous antics, this Adam Sandler classic offers a hilarious and feel-good journey as Happy navigates the world of professional golf with his unconventional style."
+    },
+    {
+        "movieId": 105,
+        "title": "Bridges of Madison County, The (1995)",
+        "genres": "Drama|Romance",
+        "description": "The Bridges of Madison County tells a poignant love story about a National Geographic photographer who finds himself unexpectedly drawn to a lonely housewife in rural Iowa. Their whirlwind romance, set against the backdrop of the picturesque Iowa countryside, explores themes of desire, longing, and the choices we make in life."
+    },
+    {
+        "movieId": 106,
+        "title": "Nobody Loves Me (Keiner liebt mich) (1994)",
+        "genres": "Comedy|Drama",
+        "description": "Nobody Loves Me is a darkly comedic and melancholy exploration of a young man's struggles with loneliness and alienation.  The film follows his misadventures as he navigates relationships and tries to find his place in the world, offering a witty and poignant reflection on the human condition."
+    },
+    {
+        "movieId": 107,
+        "title": "Muppet Treasure Island (1996)",
+        "genres": "Adventure|Children|Comedy|Musical",
+        "description": "Muppet Treasure Island is a rollicking musical adventure that brings the beloved Muppets to the world of pirate lore.  With catchy songs, hilarious characters, and plenty of swashbuckling action, this family-friendly film offers a treasure trove of entertainment for audiences of all ages."
+    },
+    {
+        "movieId": 108,
+        "title": "Catwalk (1996)",
+        "genres": "Documentary",
+        "description": "Catwalk (1996) offers a captivating glimpse into the glamorous and competitive world of high fashion modeling.  The documentary delves into the lives of various models, exploring the pressures, triumphs, and personal struggles they face as they navigate the industry's demanding landscape."
+    },
+    {
+        "movieId": 110,
+        "title": "Braveheart (1995)",
+        "genres": "Action|Drama|War",
+        "description": "Braveheart (1995) is an epic historical drama that follows the life of William Wallace, a Scottish warrior who leads a rebellion against English rule. Director Mel Gibson delivers a visually stunning and emotionally charged portrayal of courage, sacrifice, and the fight for freedom."
+    },
+    {
+        "movieId": 111,
+        "title": "Taxi Driver (1976)",
+        "genres": "Crime|Drama|Thriller",
+        "description": "Taxi Driver (1976) is a gritty and unsettling psychological thriller that explores the descent of a Vietnam War veteran into madness. Robert De Niro delivers a masterful performance as Travis Bickle, a troubled taxi driver whose alienation and disillusionment lead him down a dark path."
+    },
+    {
+        "movieId": 112,
+        "title": "Rumble in the Bronx (Hont faan kui) (1995)",
+        "genres": "Action|Adventure|Comedy|Crime",
+        "description": "Rumble in the Bronx (1995) is a high-octane action-comedy that introduces the world to the charismatic martial arts star Jackie Chan. Chan plays a New York City cop who gets caught up in a dangerous criminal conspiracy while visiting his cousin in the Bronx."
+    },
+    {
+        "movieId": 113,
+        "title": "Before and After (1996)",
+        "genres": "Drama|Mystery",
+        "description": "Before and After (1996) delves into the aftermath of a devastating crime, exploring the complexities of grief, guilt, and the search for truth.  A seemingly idyllic family is shaken to its core when a young boy vanishes, forcing them to confront the darkness that lurks beneath the surface of their lives. The film masterfully blends suspense with poignant character studies, leaving audiences with a lingering sense of unease and a profound understanding of the human condition."
+    },
+    {
+        "movieId": 116,
+        "title": "Anne Frank Remembered (1995)",
+        "genres": "Documentary",
+        "description": "Anne Frank Remembered (1995) is a poignant and intimate documentary that offers a powerful glimpse into the life of Anne Frank and the impact her wartime diary continues to have on the world. Through archival footage, interviews with those who knew Anne, and readings from her diary, the film paints a moving portrait of a young girl's resilience, hope, and enduring legacy."
+    },
+    {
+        "movieId": 117,
+        "title": "Young Poisoner's Handbook, The (1995)",
+        "genres": "Crime|Drama",
+        "description": "The Young Poisoner's Handbook (1995) is a chilling and evocative crime drama that explores the dark side of obsession and the dangers of unchecked ambition. A young boy, consumed by a fascination with poisons, embarks on a twisted path of experimentation, leading to a series of tragic consequences. The film's atmospheric visuals and unsettling performances create a haunting and unforgettable cinematic experience."
+    },
+    {
+        "movieId": 118,
+        "title": "If Lucy Fell (1996)",
+        "genres": "Comedy|Romance",
+        "description": "If Lucy Fell (1996) is a charming and witty romantic comedy that explores the complexities of relationships and the unexpected turns life can take. When a young woman moves to a new city, she finds herself drawn to a quirky and enigmatic bookstore owner, leading to a series of hilarious and heartwarming encounters. The film's clever dialogue and endearing performances make for a delightful and entertaining watch."
+    },
+    {
+        "movieId": 119,
+        "title": "Steal Big, Steal Little (1995)",
+        "genres": "Comedy",
+        "description": "Steal Big, Steal Little (1995) is a hilarious comedy that follows the misadventures of a small-time thief who finds himself entangled in a world of high-stakes crime.  With a witty script and stellar performances, the film delivers non-stop laughs as the protagonist navigates a series of increasingly ridiculous situations, ultimately learning a valuable lesson about the consequences of his actions."
+    },
+    {
+        "movieId": 121,
+        "title": "Boys of St. Vincent, The (1992)",
+        "genres": "Drama",
+        "description": "The Boys of St. Vincent (1992) is a poignant drama that explores the complexities of human connection and the search for redemption. Set against the backdrop of a troubled boys' home, the film delves into the lives of young men who have been marginalized and abused, their struggles for love and acceptance ultimately offering a glimmer of hope amidst the darkness."
+    },
+    {
+        "movieId": 122,
+        "title": "Boomerang (1992)",
+        "genres": "Comedy|Romance",
+        "description": "Boomerang (1992) is a sharp and witty romantic comedy that explores the ups and downs of love and relationships in the modern world. With a stellar cast and a blend of humor and heartfelt moments, the film tackles themes of commitment, infidelity, and self-discovery, ultimately celebrating the power of second chances."
+    },
+    {
+        "movieId": 123,
+        "title": "Chungking Express (Chung Hing sam lam) (1994)",
+        "genres": "Drama|Mystery|Romance",
+        "description": "Chungking Express (Chung Hing sam lam) (1994) is a stylish and enigmatic romantic drama that weaves together two interwoven stories of heartbreak and longing. Set in the vibrant streets of Hong Kong, the film explores themes of loneliness, identity, and the search for connection in a fast-paced and often indifferent world."
+    },
+    {
+        "movieId": 125,
+        "title": "Flirting With Disaster (1996)",
+        "genres": "Comedy",
+        "description": "Flirting With Disaster is a hilarious and heartwarming comedy about a man who embarks on a chaotic journey to find his biological parents.  Ben Stiller shines as the anxious protagonist, navigating a series of eccentric characters and unexpected twists.  The film's sharp wit and relatable characters make it a delightful watch for anyone who enjoys a good laugh."
+    },
+    {
+        "movieId": 126,
+        "title": "NeverEnding Story III, The (1994)",
+        "genres": "Adventure|Children|Fantasy",
+        "description": "The NeverEnding Story III: Escape From Fantasia continues the adventures of Bastian, this time in a visually stunning animated journey.  Facing a new threat to Fantasia, Bastian must team up with classic characters like Atreyu and Falkor to save the magical realm.  While lacking the depth of its predecessors, the film offers imaginative visuals and a simple adventure suitable for younger audiences."
+    },
+    {
+        "movieId": 128,
+        "title": "Jupiter's Wife (1994)",
+        "genres": "Documentary",
+        "description": "Jupiter's Wife is a thought-provoking documentary exploring the complex relationship between a husband and wife.  Through interviews and archival footage, the film delves into the challenges and triumphs of their marriage, offering a nuanced perspective on love, loss, and the enduring power of human connection."
+    },
+    {
+        "movieId": 129,
+        "title": "Pie in the Sky (1996)",
+        "genres": "Comedy|Romance",
+        "description": "Pie in the Sky is a charming romantic comedy that follows the blossoming relationship between two individuals from different worlds.  With its witty dialogue and delightful performances, the film captures the magic of new love and the joy of finding connection in unexpected places."
+    },
+    {
+        "movieId": 132,
+        "title": "Jade (1995)",
+        "genres": "Thriller",
+        "description": "Jade (1995) is a suspenseful thriller that follows a hard-boiled detective investigating the murder of a beautiful woman.  As the investigation deepens, the detective uncovers a web of deceit and corruption that threatens to consume him.  With a gripping plot and stellar performances, Jade is a classic neo-noir that will keep you on the edge of your seat."
+    },
+    {
+        "movieId": 135,
+        "title": "Down Periscope (1996)",
+        "genres": "Comedy",
+        "description": "Down Periscope (1996) is a lighthearted comedy that follows a group of misfit sailors aboard a rusty submarine.  When they are tasked with a top-secret mission, their unconventional methods and bumbling personalities lead to hilarious chaos.  With a stellar cast and quotable lines, Down Periscope is a fun and feel-good film that is sure to entertain the whole family."
+    },
+    {
+        "movieId": 137,
+        "title": "Man of the Year (1995)",
+        "genres": "Documentary",
+        "description": "Man of the Year (1995) is a fascinating documentary that chronicles the life and career of a prominent political figure.  Through archival footage and interviews with key figures, the film explores the man behind the public persona, offering a nuanced and insightful look at power, politics, and the media."
+    },
+    {
+        "movieId": 140,
+        "title": "Up Close and Personal (1996)",
+        "genres": "Drama|Romance",
+        "description": "Up Close and Personal (1996) is a heartfelt drama that explores the complexities of love and ambition.  The film follows the relationship between a young television journalist and a seasoned news anchor, as they navigate the challenges of their careers and their personal lives.  With powerful performances and a compelling story, Up Close and Personal is a moving and thought-provoking film about the human condition."
+    },
+    {
+        "movieId": 141,
+        "title": "Birdcage, The (1996)",
+        "genres": "Comedy",
+        "description": "The Birdcage hilariously flips the script on the classic mistaken identity trope.  A flamboyant gay couple, Armand and Albert Goldman, are forced to pretend to be straight for their son's conservative fiance's parents during a weekend visit.  Hilarity ensues as their carefully constructed facade crumbles, revealing their true selves and challenging societal norms with wit and infectious energy."
+    },
+    {
+        "movieId": 144,
+        "title": "Brothers McMullen, The (1995)",
+        "genres": "Comedy",
+        "description": "The Brothers McMullen is a poignant and comedic exploration of family, faith, and the complexities of relationships.  Three brothers, struggling to find their place in the world, grapple with life's challenges, love affairs, and familial bonds. With understated humor and heartfelt performances, the film captures the nuances of sibling dynamics and the search for connection in a chaotic world."
+    },
+    {
+        "movieId": 145,
+        "title": "Bad Boys (1995)",
+        "genres": "Action|Comedy|Crime|Drama|Thriller",
+        "description": "Bad Boys is a high-octane action comedy that pairs the unlikely duo of Miami detectives Mike Lowrey and Marcus Burnett. When a valuable shipment of confiscated narcotics is stolen, these two partners embark on a relentless pursuit to bring the criminals to justice.  Expect explosive action sequences, witty banter, and a buddy-cop dynamic that's both hilarious and thrilling."
+    },
+    {
+        "movieId": 146,
+        "title": "Amazing Panda Adventure, The (1995)",
+        "genres": "Adventure|Children",
+        "description": "The Amazing Panda Adventure is a heartwarming family adventure that follows the journey of a young boy who befriends a baby panda.  When the panda is separated from its mother, the boy embarks on a perilous quest to reunite the animal with its family.  Filled with exotic locales, adorable animals, and a message of environmental conservation, this film is sure to delight young viewers."
+    },
+    {
+        "movieId": 147,
+        "title": "Basketball Diaries, The (1995)",
+        "genres": "Drama",
+        "description": "The Basketball Diaries follows the harrowing journey of Jim Carroll, a gifted basketball player whose promising future spirals into a dark descent fueled by drug addiction.  The film offers a raw and unflinching portrayal of addiction's grip, exploring the psychological torment and societal pressures that contribute to Carroll's downfall."
+    },
+    {
+        "movieId": 148,
+        "title": "Awfully Big Adventure, An (1995)",
+        "genres": "Drama",
+        "description": "An Awfully Big Adventure chronicles the ambitious yet disastrous romance between a struggling writer and a wealthy socialite who seeks to break free from her suffocating aristocratic life.  This darkly comedic drama explores themes of alienation, societal expectations, and the complexities of love in a world of deceit and manipulation."
+    },
+    {
+        "movieId": 149,
+        "title": "Amateur (1994)",
+        "genres": "Crime|Drama|Thriller",
+        "description": "Amateur plunges into the seedy underbelly of the Parisian underworld, where a young woman becomes entangled in a dangerous web of crime.  This gripping thriller exposes the brutal realities of the criminal world, exploring themes of betrayal, violence, and the moral ambiguity that permeates the line between right and wrong."
+    },
+    {
+        "movieId": 150,
+        "title": "Apollo 13 (1995)",
+        "genres": "Adventure|Drama|IMAX",
+        "description": "Apollo 13 recounts the harrowing true story of the ill-fated Apollo 13 mission,  where a catastrophic explosion forces the astronauts to fight for survival during their perilous journey back to Earth.  This suspenseful drama highlights the courage, ingenuity, and unwavering teamwork required to overcome seemingly insurmountable obstacles."
+    },
+    {
+        "movieId": 151,
+        "title": "Rob Roy (1995)",
+        "genres": "Action|Drama|Romance|War",
+        "description": "Set in 18th-century Scotland, \"Rob Roy\" tells the thrilling story of a Highland outlaw fighting for his family and freedom against the corrupt English aristocrat, Archibald Cunningham.  With stunning visuals, a captivating performance by Liam Neeson, and a blend of action, drama, romance, and war, the film offers a compelling glimpse into a tumultuous era."
+    },
+    {
+        "movieId": 152,
+        "title": "Addiction, The (1995)",
+        "genres": "Drama|Horror",
+        "description": "\"Addiction, The\" delves into the dark underbelly of drug addiction, exploring the descent of a troubled individual into a spiral of despair. This chilling drama, laced with elements of horror, offers a stark and unflinching look at the devastating consequences of substance abuse, leaving viewers with a lingering sense of unease."
+    },
+    {
+        "movieId": 153,
+        "title": "Batman Forever (1995)",
+        "genres": "Action|Adventure|Comedy|Crime",
+        "description": "Batman Forever plunges into the colorful and chaotic world of Gotham City, where the Caped Crusader faces off against the enigmatic Two-Face and the flamboyant Riddler. This action-packed adventure, infused with elements of comedy and crime, delivers a visually stunning spectacle with memorable performances and over-the-top villains."
+    },
+    {
+        "movieId": 154,
+        "title": "Beauty of the Day (Belle de jour) (1967)",
+        "genres": "Drama",
+        "description": "\"Beauty of the Day\" (Belle de jour) is a haunting and enigmatic masterpiece that explores the complexities of female desire and identity.  Set in 1960s France, this film follows the journey of a seemingly respectable housewife who secretly indulges in a life of erotic fantasy and exploration, leading to a psychological unraveling."
+    },
+    {
+        "movieId": 155,
+        "title": "Beyond Rangoon (1995)",
+        "genres": "Adventure|Drama|War",
+        "description": "Beyond Rangoon plunges us into the turbulent world of Myanmar (Burma) in 1988.  An American tourist finds herself caught amidst the brutal crackdown on pro-democracy protests, forcing her to confront her own beliefs and step into a harrowing fight for freedom.  The film, a blend of adventure, drama, and war, is a powerful testament to the human spirit's resilience in the face of oppression."
+    },
+    {
+        "movieId": 156,
+        "title": "Blue in the Face (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Blue in the Face is a quirky and poignant comedy-drama that explores the realities of love, friendship, and aging in New York City.  Weaving together interwoven stories of interconnected characters, the film presents a bittersweet portrayal of the human experience, highlighting the humor and pathos that arise from everyday life's complexities."
+    },
+    {
+        "movieId": 157,
+        "title": "Canadian Bacon (1995)",
+        "genres": "Comedy|War",
+        "description": "Canadian Bacon is a satirical comedy that spoofs war and international relations.  The film follows a series of increasingly absurd events as a desperate Canadian Prime Minister orchestrates a fabricated conflict with the United States to boost his popularity. The result is a hilarious and thought-provoking commentary on political maneuvering and the media's role in shaping public perception."
+    },
+    {
+        "movieId": 158,
+        "title": "Casper (1995)",
+        "genres": "Adventure|Children",
+        "description": "Casper is a heartwarming family film that breathes new life into the classic ghost story.  A friendly ghost named Casper befriends a young girl who recently moved into his haunted mansion, leading to a series of magical adventures and lessons about acceptance.  This charming and visually stunning film is a delightful blend of adventure and children's entertainment."
+    },
+    {
+        "movieId": 159,
+        "title": "Clockers (1995)",
+        "genres": "Crime|Drama|Mystery",
+        "description": "Clockers, a gritty crime drama set in the heart of Brooklyn, follows the intertwined fates of two young men caught in the grip of the city's drug trade.  Spike Lee's masterful direction captures the raw energy and desperation of street life, while Delroy Lindo delivers a captivating performance as a detective struggling to navigate the treacherous underworld. The film explores themes of race, class, and the cyclical nature of violence with unflinching honesty, leaving a lasting impression on viewers."
+    },
+    {
+        "movieId": 160,
+        "title": "Congo (1995)",
+        "genres": "Action|Adventure|Mystery|Sci-Fi",
+        "description": "Congo plunges viewers into a dangerous adventure deep within the African jungle. A team of explorers, scientists, and mercenaries ventures into uncharted territory in search of a legendary lost city of gold. But their mission takes a perilous turn when they encounter hostile natives and terrifying prehistoric creatures. Filled with action-packed sequences and stunning visual effects, Congo is a thrilling ride that blends science fiction with the allure of lost civilizations."
+    },
+    {
+        "movieId": 161,
+        "title": "Crimson Tide (1995)",
+        "genres": "Drama|Thriller|War",
+        "description": "Crimson Tide, a gripping Cold War thriller, pits two submarine captains against each other in a high-stakes game of cat-and-mouse. Gene Hackman and Denzel Washington deliver intense performances as the seasoned commander and his ambitious first officer, respectively, who find themselves at odds over a potentially disastrous nuclear launch order. The film's claustrophobic setting and taut suspense create a nerve-wracking atmosphere that keeps viewers on the edge of their seats."
+    },
+    {
+        "movieId": 162,
+        "title": "Crumb (1994)",
+        "genres": "Documentary",
+        "description": "Crumb, a captivating documentary, delves into the extraordinary life and work of cartoonist Robert Crumb. Through archival footage, interviews, and Crumb's own candid reflections, the film explores his unique artistic vision, his complex relationships with his family, and his controversial legacy. Crumb's raw and unflinching depictions of sexuality and social hypocrisy challenged conventional norms, making him a seminal figure in the world of underground comics."
+    },
+    {
+        "movieId": 163,
+        "title": "Desperado (1995)",
+        "genres": "Action|Romance|Western",
+        "description": "Desperado (1995) is a stylish and violent revenge tale set in the dusty world of the American West.  El Mariachi, a skilled guitar-wielding gunslinger, seeks retribution against the ruthless drug lord who framed him.  The film is a visually stunning and action-packed homage to classic spaghetti westerns, featuring intense gunfights, a simmering romance, and a charismatic performance by Antonio Banderas."
+    },
+    {
+        "movieId": 164,
+        "title": "Devil in a Blue Dress (1995)",
+        "genres": "Crime|Film-Noir|Mystery|Thriller",
+        "description": "Devil in a Blue Dress (1995) is a neo-noir thriller that plunges viewers into the gritty underbelly of 1940s Los Angeles.  Private investigator Easy Rawlins, played by Denzel Washington, gets caught up in a dangerous web of deceit, corruption, and murder when he's hired to find a missing woman.  The film is a moody and atmospheric adaptation of the James Ellroy novel, featuring a stellar cast and a gripping plot that keeps you guessing until the very end."
+    },
+    {
+        "movieId": 165,
+        "title": "Die Hard: With a Vengeance (1995)",
+        "genres": "Action|Crime|Thriller",
+        "description": "Die Hard: With a Vengeance (1995) ups the ante on the action and suspense of its predecessors.  John McClane (Bruce Willis) is once again forced to use his wits and fists to survive, this time when he's paired with a reluctant New Yorker to stop a series of deadly bombs planted throughout the city.  The film is a non-stop thrill ride, filled with explosive set pieces, clever twists, and a healthy dose of humor."
+    },
+    {
+        "movieId": 166,
+        "title": "Doom Generation, The (1995)",
+        "genres": "Comedy|Crime|Drama",
+        "description": "The Doom Generation (1995) is a darkly comedic and anarchic road trip movie that follows three young criminals on their wild and twisted journey.  Fueled by nihilism and fueled by a desire for chaos, the trio embarks on a spree of crime and destruction.  This film is a unique blend of comedy, crime, and drama, featuring memorable performances and a subversive take on the rebellious spirit of youth."
+    },
+    {
+        "movieId": 168,
+        "title": "First Knight (1995)",
+        "genres": "Action|Drama|Romance",
+        "description": "First Knight (1995) tells a reimagined tale of the legendary King Arthur and his knights.  Sir Lancelot finds himself torn between his loyalty to the king and his forbidden love for Guinevere. As darkness threatens the kingdom, Lancelot must confront both his personal demons and the treacherous Mordred, ultimately deciding the fate of Camelot."
+    },
+    {
+        "movieId": 169,
+        "title": "Free Willy 2: The Adventure Home (1995)",
+        "genres": "Adventure|Children|Drama",
+        "description": "Free Willy 2: The Adventure Home sees Jesse and Willy embarking on a thrilling journey to return the orca to a safe haven.  Facing danger and determination, Jesse must overcome obstacles and rely on the trust and bond he shares with Willy to ensure the whale's freedom and protect it from exploitation."
+    },
+    {
+        "movieId": 170,
+        "title": "Hackers (1995)",
+        "genres": "Action|Adventure|Crime|Thriller",
+        "description": "Hackers (1995) dives into the world of cybercrime with a group of young, talented computer hackers.  When their skills are exploited for nefarious purposes, they must use their knowledge to unravel a dangerous conspiracy and expose the truth, facing off against a ruthless corporation in a high-stakes battle of wits."
+    },
+    {
+        "movieId": 171,
+        "title": "Jeffrey (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Jeffrey (1995) is a dark comedy that follows the life of Jeffrey, a gay man living with AIDS.  His journey explores themes of love, loss, and self-discovery amidst a backdrop of societal prejudice and fear surrounding the disease. Jeffrey's frank and often humorous approach to his mortality challenges societal norms and provokes thought-provoking reflections on life and death."
+    },
+    {
+        "movieId": 172,
+        "title": "Johnny Mnemonic (1995)",
+        "genres": "Action|Sci-Fi|Thriller",
+        "description": "In a cyberpunk future, Johnny Mnemonic, a data courier, is hired to smuggle a dangerous secret into his brain. When the information is corrupted, he is pursued by dangerous forces, leading him on a thrilling and violent journey through the neon-lit underbelly of society."
+    },
+    {
+        "movieId": 173,
+        "title": "Judge Dredd (1995)",
+        "genres": "Action|Crime|Sci-Fi",
+        "description": "Judge Dredd, a ruthless and imposing law enforcer in a dystopian megacity, faces his greatest challenge when a seemingly unstoppable criminal mastermind threatens to plunge the city into chaos. Dredd must navigate a web of corruption and violence, dispensing swift and brutal justice in his pursuit of the criminal."
+    },
+    {
+        "movieId": 174,
+        "title": "Jury Duty (1995)",
+        "genres": "Comedy",
+        "description": "When a hapless everyman is mistakenly chosen for jury duty, he finds himself thrust into the chaotic world of a high-profile trial.  Navigating eccentric jurors, a demanding judge, and a manipulative lawyer, he learns the true meaning of justice (and the importance of a good lawyer) in this hilarious courtroom comedy."
+    },
+    {
+        "movieId": 175,
+        "title": "Kids (1995)",
+        "genres": "Drama",
+        "description": "Kids, a raw and unflinching look at teenage life in New York City, follows a group of friends as they navigate the treacherous waters of sex, drugs, and violence. The film explores the complexities of adolescence, the search for identity, and the consequences of reckless behavior."
+    },
+    {
+        "movieId": 176,
+        "title": "Living in Oblivion (1995)",
+        "genres": "Comedy",
+        "description": "Living in Oblivion, a hilarious meta-comedy, dives into the chaotic world of low-budget filmmaking. The film follows a group of eccentric actors and crew as they grapple with creative differences, technical challenges, and the inherent absurdity of the artistic process. Through witty dialogue and absurd situations, director Tom DiCillo delivers a sharp and insightful satire on the pursuit of cinematic perfection."
+    },
+    {
+        "movieId": 177,
+        "title": "Lord of Illusions (1995)",
+        "genres": "Horror",
+        "description": "Lord of Illusions, a chilling horror tale, weaves a web of magic, mystery, and bloodshed. A renowned illusionist, plagued by a dark past, finds himself entangled in a sinister plot that threatens to unravel the fabric of reality. As lines between fantasy and nightmare blur, the film descends into a terrifying descent into madness."
+    },
+    {
+        "movieId": 178,
+        "title": "Love & Human Remains (1993)",
+        "genres": "Comedy|Drama",
+        "description": "Love & Human Remains, a poignant and darkly comedic drama, explores the complexities of human relationships in a cynical yet compassionate manner. Through a series of interconnected vignettes, the film delves into the lives of individuals navigating the intricacies of love, loss, and the search for connection in a world often defined by detachment."
+    },
+    {
+        "movieId": 179,
+        "title": "Mad Love (1995)",
+        "genres": "Drama|Romance",
+        "description": "Mad Love, a compelling drama infused with romantic undertones, centers on the turbulent relationship between a woman and a man consumed by obsession. The film explores the destructive nature of love and the lengths to which individuals will go to satisfy their desires, delving into themes of jealousy, betrayal, and the fallibility of human nature."
+    },
+    {
+        "movieId": 180,
+        "title": "Mallrats (1995)",
+        "genres": "Comedy|Romance",
+        "description": "Mallrats (1995) is a witty and endearing comedy about two heartbroken slackers navigating the treacherous waters of love and friendship in the suburban mall. Kevin Smith's signature blend of humor and heartfelt observations shines through as the characters stumble through awkward encounters, philosophical debates, and surprisingly profound realizations. While the film's romantic elements are present, it's the dynamic between the two leads and their eccentric mall-dwelling companions that truly elevates the film to cult classic status."
+    },
+    {
+        "movieId": 181,
+        "title": "Mighty Morphin Power Rangers: The Movie (1995)",
+        "genres": "Action|Children",
+        "description": "Mighty Morphin Power Rangers: The Movie (1995) catapults the beloved television heroes into a cinematic adventure filled with larger-than-life action and fantastical creatures.  The Power Rangers face a formidable new threat, Ivan Ooze, who unleashes chaos upon Angel Grove.  The film embraces the campy charm of the source material while delivering thrilling fight sequences and a dose of lighthearted humor, making it a nostalgic treat for fans of the franchise."
+    },
+    {
+        "movieId": 183,
+        "title": "Mute Witness (1994)",
+        "genres": "Comedy|Horror|Thriller",
+        "description": "Mute Witness (1994) is a chilling thriller that blends elements of horror and dark comedy for a uniquely unsettling experience.  Set in the world of ballet, the film follows a mute dancer who witnesses a brutal murder and finds herself hunted by a relentless killer.  The film's suspense is masterfully crafted, with director Michael Cuesta expertly utilizing sound design and visual storytelling to create a palpable sense of dread.  Despite its unsettling nature, Mute Witness offers moments of dark humor and a thought-provoking exploration of the human condition."
+    },
+    {
+        "movieId": 184,
+        "title": "Nadja (1994)",
+        "genres": "Drama",
+        "description": "Nadja (1994) is a darkly comedic and gothic drama that explores the complexities of immortality and the search for meaning.  The film centers on Nadja, a centuries-old vampire who finds herself yearning for something more than eternal life.  Director Michael Almereyda crafts a visually striking and atmospheric world, and the film benefits immensely from its talented cast, led by the mesmerizing Elina Löwensohn as Nadja.  Nadja is a film that lingers in the mind long after the credits roll, prompting reflection on the nature of existence and the price of eternal youth."
+    },
+    {
+        "movieId": 185,
+        "title": "Net, The (1995)",
+        "genres": "Action|Crime|Thriller",
+        "description": "In 'The Net,' a computer programmer finds himself caught in a deadly conspiracy after accidentally stumbling upon a government secret.  As he desperately tries to clear his name and uncover the truth, he must outsmart a ruthless network of assassins and hackers. This action-packed thriller keeps viewers on the edge of their seats with its intricate plot twists and high-stakes chase sequences."
+    },
+    {
+        "movieId": 186,
+        "title": "Nine Months (1995)",
+        "genres": "Comedy|Romance",
+        "description": "'Nine Months' is a heartwarming romantic comedy about a commitment-phobic man who must face his fears when his girlfriend becomes pregnant. As they navigate the ups and downs of impending parenthood, their relationship is tested, leading to both hilarious and touching moments. The film explores the complexities of love, responsibility, and the joys of family."
+    },
+    {
+        "movieId": 187,
+        "title": "Party Girl (1995)",
+        "genres": "Comedy",
+        "description": " 'Party Girl' is a raucous comedy about a young woman who juggles her struggling acting career with her wild lifestyle as a New York City party girl.  Her carefree existence is upended when she falls for a handsome but uptight lawyer who wants to lead her down a different path. The film is filled with quirky characters, outrageous situations, and sharp wit, making it a laugh-out-loud ride."
+    },
+    {
+        "movieId": 188,
+        "title": "Prophecy, The (1995)",
+        "genres": "Fantasy|Horror|Mystery",
+        "description": "In 'The Prophecy,' a grizzled angel and a ruthless demon clash in a battle for the fate of mankind. As they wage war in a world teetering on the brink of chaos, their fight spills into the human realm, unleashing ancient prophecies and unleashing terrifying consequences. This atmospheric horror film blends dark fantasy and supernatural suspense."
+    },
+    {
+        "movieId": 189,
+        "title": "Reckless (1995)",
+        "genres": "Comedy|Fantasy",
+        "description": "Reckless (1995) is a whimsical comedy-fantasy that blends lighthearted humor with touches of magical realism.  The film follows the adventures of a group of quirky characters navigating life's absurdities with a blend of wit and charm. Get ready for a delightful escape into a world where the ordinary becomes extraordinary."
+    },
+    {
+        "movieId": 190,
+        "title": "Safe (1995)",
+        "genres": "Thriller",
+        "description": "Safe (1995) is a psychological thriller that delves into the depths of paranoia and isolation. Julianne Moore delivers a haunting performance as a woman who develops a mysterious affliction, gradually losing her grip on reality. As her symptoms worsen, she descends into a world of fear and uncertainty, questioning her own sanity. This unsettling film explores the fragility of the human psyche and the terror of the unknown."
+    },
+    {
+        "movieId": 191,
+        "title": "Scarlet Letter, The (1995)",
+        "genres": "Drama|Romance",
+        "description": "The Scarlet Letter (1995) is a visually stunning and emotionally powerful adaptation of Nathaniel Hawthorne's classic novel. Set in 17th-century Puritan Boston, the film follows Hester Prynn, a woman ostracized for adultery, as she struggles to navigate societal condemnation and find redemption. With stellar performances from Demi Moore and Gary Oldman, this film explores themes of love, guilt, and the enduring power of forgiveness."
+    },
+    {
+        "movieId": 193,
+        "title": "Showgirls (1995)",
+        "genres": "Drama",
+        "description": "Showgirls (1995) is a flamboyant and controversial drama that explores the dark underbelly of the Las Vegas showgirl world.  Elizabeth Berkley delivers a captivating performance as Nomi Malone, a small-town girl who arrives in Las Vegas with dreams of stardom.  As she navigates the cutthroat world of show business, she encounters betrayal, addiction, and the seductive allure of fame. This film is a visually arresting and unflinching look at ambition, sexuality, and the price of success."
+    },
+    {
+        "movieId": 194,
+        "title": "Smoke (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Smoke (1995) is a poignant and introspective film that explores the lives of two friends, Auggie and Ben, who find solace in their shared space, a Brooklyn bodega.  As they navigate the complexities of life and loss, the film beautifully captures the interconnectedness of seemingly ordinary people and the subtle moments that shape our experiences. With a naturalistic style and nuanced performances, Smoke offers a contemplative look at friendship, love, and the search for meaning in an urban setting."
+    },
+    {
+        "movieId": 195,
+        "title": "Something to Talk About (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Something to Talk About (1995) is a charming and witty romantic drama that follows the journey of Grace King, a Southern woman whose life takes an unexpected turn when her husband's secret affairs are exposed.  Faced with a crumbling marriage and the prospect of starting anew, Grace embarks on a path of self-discovery and ultimately finds strength and independence. The film is a delightful exploration of love, betrayal, and the enduring power of human connection."
+    },
+    {
+        "movieId": 196,
+        "title": "Species (1995)",
+        "genres": "Horror|Sci-Fi",
+        "description": "Species (1995) is a thrilling and suspenseful sci-fi horror film that pits humanity against a deadly alien creature.  Created by scientists experimenting with alien DNA, Sil, a seductive and deadly femme fatale, escapes from captivity and begins a reign of terror. As a team of specialists races to stop her, the film explores themes of scientific hubris, the dangers of unchecked ambition, and the primal fear of the unknown."
+    },
+    {
+        "movieId": 198,
+        "title": "Strange Days (1995)",
+        "genres": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller",
+        "description": "Strange Days (1995) is a gritty and neo-noir sci-fi thriller set in a dystopian Los Angeles.  The film follows a former police officer who gets caught up in a dangerous world of illegal recordings of people's experiences, known as 'Strange Days.' As he delves deeper into this underground market, he uncovers a dark conspiracy that threatens to expose the city's underbelly. With its stylish visuals and thought-provoking themes, Strange Days offers a chilling look at the future of technology and its potential consequences."
+    },
+    {
+        "movieId": 199,
+        "title": "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",
+        "genres": "Drama|Musical|Romance",
+        "description": "Jacques Demy's 'The Umbrellas of Cherbourg' is a visually stunning and emotionally resonant musical drama. Set in the titular French town, the film follows the love story of Geneviève and Guy, their relationship tested by fate and circumstance. With its innovative use of color and song, the film explores themes of love, loss, and the bittersweet passage of time."
+    },
+    {
+        "movieId": 201,
+        "title": "Three Wishes (1995)",
+        "genres": "Drama|Fantasy",
+        "description": "Three Wishes, a heartwarming drama with a touch of fantasy, tells the story of a young man who finds himself with the magical ability to grant three wishes. As he navigates his newfound power, he grapples with the complexities of love, loss, and the true meaning of happiness. The film explores the transformative power of hope and the importance of cherishing our dreams."
+    },
+    {
+        "movieId": 202,
+        "title": "Total Eclipse (1995)",
+        "genres": "Drama|Romance",
+        "description": "Total Eclipse, a passionate and introspective drama, delves into the tumultuous relationship between poets Arthur Rimbaud and Paul Verlaine. The film captures the intensity of their artistic and personal connection, as well as the destructive forces that ultimately tear them apart. With stunning cinematography and powerful performances, 'Total Eclipse' offers a glimpse into the lives of two literary giants."
+    },
+    {
+        "movieId": 203,
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+        "genres": "Comedy",
+        "description": "To Wong Foo, Thanks for Everything! Julie Newmar is a riotous comedy that follows three drag queens as they embark on a cross-country road trip. Along the way, they encounter a cast of quirky characters and learn valuable lessons about self-acceptance, friendship, and the power of true beauty. With witty dialogue, over-the-top performances, and a heartwarming message, the film celebrates individuality and the joy of embracing who you are."
+    },
+    {
+        "movieId": 204,
+        "title": "Under Siege 2: Dark Territory (1995)",
+        "genres": "Action",
+        "description": "In 'Under Siege 2: Dark Territory,' Steven Seagal reprises his role as Casey Ryback, a hardened Navy SEAL who finds himself embroiled in a deadly siege aboard a high-speed train hurtling across the American Midwest.  Facing off against a ruthless terrorist determined to incite chaos, Ryback must utilize his combat skills and cunning to protect the passengers and thwart the villain's sinister plot."
+    },
+    {
+        "movieId": 205,
+        "title": "Unstrung Heroes (1995)",
+        "genres": "Comedy|Drama",
+        "description": " 'Unstrung Heroes' is a heartwarming comedy-drama that follows the lives of three Jewish brothers as they navigate the complexities of family, grief, and the enduring power of love. After the death of their father, the brothers reunite with their estranged mother and embark on a journey of self-discovery and healing."
+    },
+    {
+        "movieId": 206,
+        "title": "Unzipped (1995)",
+        "genres": "Documentary",
+        "description": "'Unzipped' provides an intimate look into the world of fashion designer Isaac Mizrahi. This documentary film chronicles Mizrahi's creative process as he prepares for his highly anticipated fashion show, offering a glimpse into the pressures and rewards of a life dedicated to haute couture."
+    },
+    {
+        "movieId": 207,
+        "title": "Walk in the Clouds, A (1995)",
+        "genres": "Drama|Romance",
+        "description": "'Walk in the Clouds' is a romantic drama set against the backdrop of the Napa Valley wine country.  A young World War II veteran, a drifter seeking purpose, is unexpectedly drawn into the lives of a struggling vineyard owner and his beautiful wife. As their paths intertwine, they find solace and unexpected love."
+    },
+    {
+        "movieId": 208,
+        "title": "Waterworld (1995)",
+        "genres": "Action|Adventure|Sci-Fi",
+        "description": "Set in a future where the polar ice caps have melted, 'Waterworld' follows Mariner, a lone drifter who navigates a treacherous ocean world. With its stunning visuals and high-octane action, the film depicts a society clinging to survival amidst flooded landscapes. Mariner becomes entangled in a quest to protect Helen and Enola, who possess a vital clue to finding dry land, leading to a thrilling battle against the ruthless Smokers."
+    },
+    {
+        "movieId": 209,
+        "title": "White Man's Burden (1995)",
+        "genres": "Drama",
+        "description": " 'White Man's Burden' is a thought-provoking drama set against the backdrop of the Rwandan genocide. The film explores the complexities of race, power, and responsibility through the eyes of a well-intentioned American aid worker caught in the midst of the conflict.  With compelling performances and a starkly realistic portrayal of the crisis, the film examines the moral dilemmas faced by those attempting to navigate such a devastating humanitarian tragedy."
+    },
+    {
+        "movieId": 210,
+        "title": "Wild Bill (1995)",
+        "genres": "Western",
+        "description": " 'Wild Bill' is a gritty Western that chronicles the life of legendary outlaw Wild Bill Hickok. The film follows Hickok as he struggles to maintain his lawman image while navigating the treacherous world of the American frontier.  With its rugged landscapes and intense gunfights, 'Wild Bill' offers a glimpse into the lawless era of the Wild West, showcasing the legendary gunslinger's complex character and the harsh realities of life in the Old West."
+    },
+    {
+        "movieId": 211,
+        "title": "Browning Version, The (1994)",
+        "genres": "Drama",
+        "description": " 'The Browning Version' is a poignant drama that delves into the life of Andrew Crocker-Harris, a middle-aged Classics teacher facing his own mortality and societal indifference.  As he approaches retirement, Crocker-Harris grapples with his fading relevance and a past filled with regret. This introspective film offers a poignant reflection on the human condition, exploring themes of isolation, regret, and the search for meaning in an uncaring world."
+    },
+    {
+        "movieId": 212,
+        "title": "Bushwhacked (1995)",
+        "genres": "Adventure|Comedy|Crime|Mystery",
+        "description": "Bushwhacked (1995) is a zany adventure comedy that follows a hapless, city-dwelling tourist who gets caught in a wild crossfire of mistaken identities and criminal schemes while on a trip to the wilderness. This hilarious and action-packed romp is a testament to the enduring appeal of classic buddy-comedy tropes, offering plenty of laughs and thrilling escapades."
+    },
+    {
+        "movieId": 213,
+        "title": "Burnt by the Sun (Utomlyonnye solntsem) (1994)",
+        "genres": "Drama",
+        "description": "Burnt by the Sun (Utomlyonnye solntsem) (1994) is a powerful and haunting drama set in Stalin's Soviet Union.  The film follows a respected officer who finds his life turned upside down when he is falsely accused of treason. Director Nikita Mikhalkov masterfully weaves a tapestry of political intrigue, personal betrayal, and the chilling reality of living under a totalitarian regime."
+    },
+    {
+        "movieId": 214,
+        "title": "Before the Rain (Pred dozhdot) (1994)",
+        "genres": "Drama|War",
+        "description": "Before the Rain (Pred dozhdot) (1994) is a poignant and thought-provoking war drama that explores the interconnected lives of individuals caught in the crosshairs of conflict. Set against the backdrop of the Yugoslav Wars, the film masterfully interweaves three seemingly disparate storylines, revealing the devastating impact of war on individuals and communities."
+    },
+    {
+        "movieId": 215,
+        "title": "Before Sunrise (1995)",
+        "genres": "Drama|Romance",
+        "description": "Before Sunrise (1995) is a tender and romantic film that captures the magic of a chance encounter. Two strangers, a young American and a French woman, meet on a train and decide to spend a day together exploring Vienna. Their conversations are filled with wit, vulnerability, and a growing sense of connection, creating a timeless and unforgettable cinematic experience."
+    },
+    {
+        "movieId": 216,
+        "title": "Billy Madison (1995)",
+        "genres": "Comedy",
+        "description": "Billy Madison, a spoiled man-child, is forced by his father to repeat grades 1-12 to inherit his hotel empire. This raucous comedy follows Billy's hilarious journey through childhood, navigating schoolyard antics, romance, and unexpected self-discovery. With Adam Sandler's signature goofy charm, Billy Madison delivers a side-splitting romp through the absurdity of education and the importance of personal growth."
+    },
+    {
+        "movieId": 217,
+        "title": "Babysitter, The (1995)",
+        "genres": "Drama|Thriller",
+        "description": "Framed for a crime he didn't commit, a young man must clear his name while battling a sinister babysitter who has his family in her grasp. The Babysitter is a suspenseful thriller that keeps you on the edge of your seat, exploring themes of betrayal, manipulation, and the lengths one will go to protect their loved ones."
+    },
+    {
+        "movieId": 218,
+        "title": "Boys on the Side (1995)",
+        "genres": "Comedy|Drama",
+        "description": "Three women from different walks of life find their paths intertwined on a cross-country road trip, forging a powerful bond of friendship amidst personal struggles and life's unexpected twists. Boys on the Side is a heartwarming comedy-drama that celebrates female empowerment, the complexities of relationships, and the importance of finding your tribe."
+    },
+    {
+        "movieId": 219,
+        "title": "Cure, The (1995)",
+        "genres": "Drama",
+        "description": "A detective investigating a series of bizarre murders uncovers a deeply unsettling truth about the nature of human consciousness and the power of suggestion. The Cure is a chilling and thought-provoking drama that delves into the dark recesses of the mind, exploring themes of identity, memory, and the elusive nature of reality."
+    },
+    {
+        "movieId": 220,
+        "title": "Castle Freak (1995)",
+        "genres": "Horror",
+        "description": "Castle Freak (1995) plunges viewers into a nightmarish world of gothic horror.  A young woman and her family become trapped in a remote castle with a terrifying creature, a horrifying beast born from a dark curse. The film embraces grotesque imagery and relentless suspense, leaving audiences on edge as they witness the family's desperate struggle for survival."
+    },
+    {
+        "movieId": 222,
+        "title": "Circle of Friends (1995)",
+        "genres": "Drama|Romance",
+        "description": "Set against the backdrop of 1950s Ireland, Circle of Friends (1995) is a poignant coming-of-age story about love, friendship, and the complexities of growing up. The film follows a group of young friends as they navigate the social circles and romantic entanglements of their small town, their lives forever changed by the arrival of a charismatic American student."
+    },
+    {
+        "movieId": 223,
+        "title": "Clerks (1994)",
+        "genres": "Comedy",
+        "description": "Clerks (1994) is a hilarious and relatable black-and-white comedy that captures the mundane realities of working at a convenience store.  This low-budget gem follows two friends, Dante and Randal, as they work a shift filled with eccentric customers, philosophical discussions, and the occasional run-in with the law. The film's sharp wit and observational humor have made it a cult classic."
+    },
+    {
+        "movieId": 224,
+        "title": "Don Juan DeMarco (1995)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Don Juan DeMarco (1995) is a charming and thought-provoking romantic comedy-drama that explores the power of love and the search for meaning. The film centers on a young man who believes himself to be the legendary Don Juan, and his encounters with a psychiatrist who becomes intrigued by his passionate outlook on life.  The film blends humor, romance, and a touch of fantasy to create a unique and endearing story."
+    },
+    {
+        "movieId": 225,
+        "title": "Disclosure (1994)",
+        "genres": "Drama|Thriller",
+        "description": "Disclosure (1994) delves into the unsettling world of sexual harassment in the corporate sphere. Michael Douglas portrays a software executive who finds himself the target of unwanted advances from his superior, played by Demi Moore. As the lines between professional courtesy and predatory behavior blur, the film explores themes of power, manipulation, and the consequences of unchecked ambition."
+    },
+    {
+        "movieId": 227,
+        "title": "Drop Zone (1994)",
+        "genres": "Action|Thriller",
+        "description": "Drop Zone (1994) delivers high-octane action as Wesley Snipes takes on the role of a skydiving instructor seeking revenge against a corporate conspiracy. When his partner is betrayed and killed, Snipes' character embarks on a perilous mission to expose the truth. Featuring heart-stopping stunts and explosive action sequences, the film combines thrilling chase scenes with a compelling revenge narrative."
+    },
+    {
+        "movieId": 228,
+        "title": "Destiny Turns on the Radio (1995)",
+        "genres": "Comedy",
+        "description": "Destiny Turns on the Radio (1995) is a heartwarming comedy-drama centered around the unconventional journey of a young woman seeking her voice.  Inspired by the real-life story of a college student who becomes a DJ, the film follows her as she navigates the challenges of love, friendship, and self-discovery while pursuing her passion for music."
+    },
+    {
+        "movieId": 229,
+        "title": "Death and the Maiden (1994)",
+        "genres": "Drama|Thriller",
+        "description": "Death and the Maiden (1994) is a gripping psychological thriller that explores themes of justice, revenge, and the lingering trauma of past atrocities.  Sigourney Weaver delivers a powerhouse performance as a woman who, years after being abducted and tortured during a dictatorship, encounters a man who may be her former captor.  The film unfolds as a tense and claustrophobic game of cat-and-mouse, leaving audiences on the edge of their seats."
+    },
+    {
+        "movieId": 230,
+        "title": "Dolores Claiborne (1995)",
+        "genres": "Drama|Thriller",
+        "description": "Dolores Claiborne, a weathered Maine housekeeper, faces a chilling murder investigation that unravels a past stained with secrets and sorrow.  This gripping drama, starring Kathy Bates in an Oscar-nominated performance, delves into themes of domestic abuse, justice, and the enduring power of the past.  Claiborne's journey through guilt, grief, and self-discovery makes for a haunting and emotionally resonant cinematic experience."
+    },
+    {
+        "movieId": 231,
+        "title": "Dumb & Dumber (Dumb and Dumber) (1994)",
+        "genres": "Adventure|Comedy",
+        "description": "Dumb & Dumber, a laugh-out-loud comedy, follows the misadventures of Lloyd and Harry, two lovable but dimwitted best friends on a cross-country road trip.  Their quest to reunite with a woman who unknowingly left her briefcase full of money behind leads to a series of hilarious blunders and outrageous escapades.  With quotable lines and slapstick humor, this film is a timeless example of silly, feel-good fun."
+    },
+    {
+        "movieId": 232,
+        "title": "Eat Drink Man Woman (Yin shi nan nu) (1994)",
+        "genres": "Comedy|Drama|Romance",
+        "description": "Eat Drink Man Woman, a poignant and visually stunning Taiwanese drama, explores the complex relationships within a family of three daughters and their widowed father, a renowned chef.  Through sumptuous meals and heartfelt conversations, the film delves into themes of tradition, identity, and the search for connection. With its beautiful cinematography and subtle character portrayals, this film offers a moving and insightful glimpse into the intricacies of family life."
+    },
+    {
+        "movieId": 233,
+        "title": "Exotica (1994)",
+        "genres": "Drama",
+        "description": "Exotica, a visually arresting and emotionally charged drama, delves into the dark underbelly of desire and obsession. Set in a seedy Toronto nightclub, the film follows the intertwining lives of several characters, each grappling with their own complex issues of sexuality, loneliness, and longing.  With its evocative imagery and haunting soundtrack, Exotica explores the shadowy realms of human connection and the consequences of unchecked impulses."
+    }
+]

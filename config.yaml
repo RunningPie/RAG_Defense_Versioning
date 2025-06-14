@@ -1,0 +1,58 @@
+# -------------------------
+# File Paths and Directories
+# -------------------------
+data_paths:
+  raw_data_dir: "data/raw/"
+  processed_data_dir: "data/processed/"
+  results_dir: "results/metrics/"
+
+filenames:
+  movies_csv: "movies.csv"
+  clean_kb: "clean_knowledge_base.json"
+  poisoned_kb: "poisoned_knowledge_base.json"
+
+# -------------------------
+# API and Model Configuration
+# -------------------------
+# groq:
+#   api_key: "YOUR_GROQ_API_KEY" 
+
+# Models to be used for the final RAG generator evaluation
+generator_models:
+  - "gemma2-9b-it"
+  - "llama-3.3-70b-versatile"
+
+# Model to use for the FAST data enrichment step
+enrichment_model: "gemma2-9b-it"
+
+# -------------------------
+# Experiment Parameters
+# -------------------------
+retriever:
+  model: "all-MiniLM-L6-v2"
+  top_k: 10 
+
+attack:
+  num_targets: 10
+  num_neighbors: 5
+
+# Parameters for the build_kb script
+enrichment_script:
+  # Using only the first 200 movies for a faster run
+  data_subset_size: 200 
+  # Level 1 Batching: How many movies to process in a single API call
+  items_per_request: 4
+  # Level 2 Batching: How many parallel API requests to send at once.
+  # Set to a number <= Groq's RPM limit (25).
+  parallel_requests_batch_size: 25
+  # Delay to wait after a batch of parallel requests to respect RPM.
+  delay_between_batches_sec: 61
+
+# NEW: Centralized parameters for the defense mechanism
+defense_params:
+  # The percentile of movies to be considered "unpopular"
+  unpopular_percentile_threshold: 0.5
+  # The semantic similarity score required to flag a potential match
+  similarity_threshold: 0.25
+  # The minimum character length of an added text segment to be checked
+  min_segment_length: 10
