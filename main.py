@@ -43,9 +43,7 @@ async def run_defended_scenario(clean_pipeline, attacked_pipeline, defense_syste
     defended_results = []
     k_for_hr = 10
     detections = 0
-    
-    # --- THIS IS THE CORRECTED LINE ---
-    # The retriever's knowledge_base is a list of dicts, not a list of dicts containing a 'document' key.
+
     poisoned_kb_map = {item['movieId']: item for item in attacked_pipeline.retriever.knowledge_base}
 
     print("Running defended scenario with real per-query checks...")
@@ -102,7 +100,7 @@ async def main():
 
     all_results_by_model = {}
 
-    for model_name in config.get('generator_models', []):
+    for model_name in config["generator"].get('models', []):
         print(f"\n================= Evaluating Model: {model_name} =================")
         
         baseline_pipeline = RAGPipeline()
@@ -134,7 +132,7 @@ async def main():
             "retriever_model": config['retriever']['model'],
             "attack_num_targets": config['attack']['num_targets'],
             "defense_params": config['defense_params'],
-            "generator_models_tested": config.get('generator_models', [])
+            "generator_models_tested": config["generator"].get('models', [])
         },
         "results_by_model": all_results_by_model,
         "overall_interpretation": generate_interpretation(all_results_by_model)

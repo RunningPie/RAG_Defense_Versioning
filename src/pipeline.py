@@ -78,7 +78,7 @@ async def example_run():
     print("\n\n--- FINAL RESPONSE ---")
     print(response)
 
-# To run this example, you would need an async entry point, e.g.:
+# To run this example, you would need an async entry point
 if __name__ == '__main__':
     import asyncio
     asyncio.run(example_run())

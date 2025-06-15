@@ -18,6 +18,9 @@ class Generator:
             raise ValueError("GROQ_API_KEY not found. Please set it as an env variable or in config.yaml.")
         
         self.client = AsyncGroq(api_key=groq_api_key)
+        
+        self.temperature = config.get("temperature", 0.5)
+        self.temperature = config.get("max_tokens", 1024)
 
     def format_prompt(self, query: str, context: list[dict]) -> list[dict]:
         """
@@ -67,8 +70,8 @@ class Generator:
             chat_completion = await self.client.chat.completions.create(
                 messages=messages,
                 model=model_name,
-                temperature=0.5, # Lower temperature for more factual responses
-                max_tokens=1024,
+                temperature=self.temperature, # Lower temperature for more factual responses
+                max_tokens=self.max_tokens,
             )
             return chat_completion.choices[0].message.content
         except Exception as e:
